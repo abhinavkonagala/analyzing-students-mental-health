@@ -35,8 +35,7 @@ The `students.csv` dataset contains 286 student records with 50 variables includ
 
 ## SQL Analysis Tasks
 
-The analysis involved writing a PostgreSQL query to:
-
+The analysis involved writing a PostgreSQL query with 5 main requirements:
 - [x] Return a table with **nine rows** and **five columns**
 - [x] Create five aliased columns: `stay`, `count_int`, `average_phq`, `average_scs`, and `average_as`
 - [x] Calculate average scores for:
